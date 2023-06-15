@@ -1,7 +1,7 @@
 
 # Frontend Mentor - Age Calculator
 
-This challenge is a HTML and CSS and JavaScript project (fully responsive on all screens).
+This challenge is a HTML, CSS and JavaScript project (fully responsive on all screens).
 
 The aim was building out this age calculator and getting it as close to the design as possible.
 
