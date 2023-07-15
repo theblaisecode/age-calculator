@@ -22,6 +22,7 @@ HTML, CSS, JS
 
 ## Authors
 
-- [@theblaisecode](https://github.com/theblaisecode)
-- [Frontend Mentors](https://www.frontendmentor.io/challenges/)
-
+- Github - [@theblaisecode](https://github.com/theblaisecode)
+- Twitter - [@theblaisecode](https://twitter.com/theblaisecode)
+- LinkedIn - [@theblaisecode](https://www.linkedin.com/in/theblaisecode)
+- Frontend Mentor Challlenges - [Frontend Mentors](https://www.frontendmentor.io/challenges/)
